@@ -18,7 +18,6 @@
       "buildNumber": "1",
       "infoPlist": {
         "CFBundleDisplayName": "Swish Stats",
-        "NSCameraUsageDescription": "Swish Stats does not use the camera.",
         "ITSAppUsesNonExemptEncryption": false
       },
       "config": {
@@ -39,7 +38,6 @@
       "favicon": "./assets/favicon.png"
     },
     "plugins": [
-      "expo-sharing",
       "expo-updates"
     ],
     "updates": {
